@@ -1,6 +1,6 @@
 # Hi, I'm Hemateja Pulikanti 👋
 
-SDE at L&T Technology Services | Upskilling in DSA · System Design · Python
+Software Engineer at L&T Technology Services | Upskilling in DSA · System Design · Python
 
 ## Currently
 - Solving LeetCode problems daily (Python)
