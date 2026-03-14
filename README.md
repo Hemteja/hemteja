@@ -4,7 +4,7 @@ Software Engineer at L&T Technology Services | Upskilling in DSA · System Desig
 
 ## Currently
 - Solving LeetCode problems daily (Python)
-- Building toward FAANG-level engineering
+- Building towards FAANG-level engineering
 - Studying system design fundamentals
 
 ## Tech Stack
